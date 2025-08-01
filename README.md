@@ -1,12 +1,28 @@
-# React + Vite
+# iPhone 15 Apple Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern recreation of the Apple website — built with **React.js**, **Three.js**, **GSAP**, and **Vite**.
 
-Currently, two official plugins are available:
+🎥 Custom **video carousel**  
+📱 Interactive **3D iPhone model preview**  
+💫 Smooth animations and scroll effects powered by **GSAP**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About This Project
 
-## Expanding the ESLint configuration
+This project was created as a personal challenge to:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧠 Learn and practice **React**, **Three.js**, and **GSAP**
+- 🚀 Get comfortable with **Vite** as a fast and modern dev environment
+- 🎨 Explore creative web design and interactive 3D experiences
+- 🧱 Improve as a **frontend/web developer** by recreating a high-quality, real-world UI
+
+## Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Live Demo
+
+[🔗 Visit the site](https://davidrighidev.github.io/iPhone-15-Apple-Website/)

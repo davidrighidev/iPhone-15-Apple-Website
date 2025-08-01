@@ -13,7 +13,7 @@ export default defineConfig({
       project: "javascript-react",
     }),
   ],
-  base: "/iPhone-15-Apple-Website",
+  base: "/iPhone-15-Apple-Website/",
 
   build: {
     sourcemap: true,
