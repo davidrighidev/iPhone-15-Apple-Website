@@ -8,20 +8,22 @@ const Highlights = () => {
     gsap.to("#title", {
       scrollTrigger: {
         trigger: "#title",
+        toggleActions: "restart reverse restart reverse",
+        start: "top 90%",
       },
       opacity: 1,
-      delay: 0.3,
       y: 0,
     });
 
     gsap.to(".link", {
       scrollTrigger: {
         trigger: ".link",
+        toggleActions: "restart reverse restart reverse",
+        start: "top 90%",
       },
       opacity: 1,
       y: 0,
       duration: 1,
-      delay: 0.3,
       stagger: 0.25,
     });
   }, []);
